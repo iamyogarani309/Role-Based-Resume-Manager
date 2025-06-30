@@ -1,4 +1,6 @@
 **Role-Based Resume Manager (RBRM)**
+
+
 **OBJECTIVE:**
  The main aim of this project is to develop an intelligent and user-friendly resume management system. It helps applicants improve their resumes by providing feedback, score, and suggestions based on the job role they’re interested in.
  It also assists recruiters by organizing resumes, allowing job postings, and managing job applications in an efficient way. The system helps recruitment process for both job seekers and recruiters.
