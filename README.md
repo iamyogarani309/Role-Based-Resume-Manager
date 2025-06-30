@@ -11,9 +11,7 @@
  Show a resume score based on their skills and experience.
  Allow recruiters to post jobs and review applications.
  Send email updates to applicants about their application status.
- 
-** LITERATURE SURVEYS:**
-
+**LITERATURE SURVEYS:**
 1.Resume Parsing & Analysis
 "AI-Based Resume Screening" (IEEE, 2022)
 Struggles with non-standard resume formats
